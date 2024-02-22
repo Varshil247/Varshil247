@@ -14,9 +14,6 @@
 
 <br/>
 
----
-<br/>
-
 <!--skills-->
 <code> # My Technical Toolkit </code>
 <div>
@@ -44,7 +41,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="33rem" width="33rem"/>
 </div>
 
-<br/>
-
----
 <br/>

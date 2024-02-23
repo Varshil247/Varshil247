@@ -6,8 +6,8 @@
 <code> # About Me </code>
 <pre>
   <code>
-  🎓 | CompSci UnderGrad @ UoN              🏞️ | Love Climbing Mountains
-  🌐 | Freelance Web Developer              🚀 | Invested In Growth
+  🎓 | CompSci UnderGrad @ UoN                      🏞️ | Love Climbing Mountains
+  🌐 | Freelance Web Developer                      🚀 | Invested In Growth
   📱 | Aspiring Software Engineer
   </code>
 </pre>

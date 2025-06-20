@@ -6,9 +6,10 @@
 <code> # About Me </code>
 <pre>
   <code>
-  🎓 | CompSci UnderGrad @ UoN                      🏞️ | Love Climbing Mountains
-  🌐 | Freelance Web Developer                      🚀 | Invested In Growth
-  📱 | Aspiring Software Engineer
+  🎓 | CS-AI UnderGrad @ UoN                          🏞️ | Love Hiking Mountains & Travelling
+  📱 | Fullstack Software Engineer                    🚀 | Invested in Growth & Mentorship
+  🧠 | AI/ML Engineering                              🎾 | _Proffessional_ Badminton and Tennis
+  🌐 | Web Design & Development
   </code>
 </pre>
 
